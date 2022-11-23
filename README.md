@@ -12,9 +12,7 @@
   
 # Main Features
 
-<h4> Image recon </h4>
 
-- Used to find the image in social media's which is publicly available.
 
 <h4> Phone number verifier </h4>
 
@@ -24,9 +22,7 @@
 
 - It tells whether the user name is found in any of the social media's
 
-<h4> PDF analysis </h4>
 
-- It shows the author of the document and creation date and modified date and sofware which it used to create the pdf.
 
 <h4> web scrap </h4>
 
@@ -40,9 +36,7 @@
 
 - It shows the location of the Internet service provider's of the ip address and show info about an IP address.
 
-<h4> Heat Map generation</h4>
 
-- It maps the multiple IP and provide as a Map called Heatmap.
 
 # Screenshot
 
