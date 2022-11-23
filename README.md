@@ -7,6 +7,8 @@
 # Author
 
  - <b> Raviteja Karumanchi</b> 
+ - <b> thanmay</b>
+ - <b> jala ajay kumar yadav</b>
   
 # Main Features
 
